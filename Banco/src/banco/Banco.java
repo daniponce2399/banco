@@ -18,6 +18,8 @@ public class Banco {
         System.out.print("20000 euros dentro del banco");
         System.out.print("Nuevo punto");
         System.out.print("Esto va a causar errores");
+        System.out.print("Esta linea va a causar un error porque hemos modificado" +
+                " el mismo archivo");
     }
     
 }
