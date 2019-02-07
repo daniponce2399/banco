@@ -17,6 +17,7 @@ public class Banco {
     public static void main(String[] args) {
         System.out.print("20000 euros dentro del banco");
         System.out.print("Nuevo punto");
+        System.out.print("Esto va a causar errores");
     }
     
 }
