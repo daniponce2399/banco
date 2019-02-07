@@ -15,7 +15,7 @@ public class Banco {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.print("Hola tierra 2");
+        System.out.print("20000 euros dentro");
     }
     
 }
